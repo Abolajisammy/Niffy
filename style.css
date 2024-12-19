@@ -24,6 +24,9 @@ header{
     text-align: center;
     text-decoration: none;
 }
+.m-v{
+    display: none;
+}
 .in-header{
     display: flex;
     flex-flow: row;
