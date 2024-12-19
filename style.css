@@ -380,7 +380,8 @@ footer h6 a{
     .d-v{
         display: none;
     }
-    header h1{
+    .m-v{
+        display: block;
         font-size: 30px;
         color: rgb(214, 212, 212);
     }
