@@ -279,7 +279,7 @@ main{
 .p-one, .p-two{
     box-shadow: inset 2000px 0 0 0 rgba(0, 0, 0, 0.5);
     width: 80%; 
-    height: 35vh;
+    height: fit-content;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
