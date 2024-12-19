@@ -365,7 +365,7 @@ footer h6 a{
         justify-content: left;
         align-items: first baseline;
         flex-flow: column;
-        height: 85vh;
+        height: 100vh;
         width: 100%;
         padding: 0px 0px;
         background: linear-gradient(360deg,rgb(59, 18, 3), rgb(247, 108, 58), rgb(59, 18, 3));
